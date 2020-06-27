@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lucasfieri/react-tdd-course/issues"
   },
-  "homepage": "https://github.com/lucasfieri/react-tdd-course#readme"
+  "homepage": "https://github.com/lucasfieri/react-tdd-course#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^2.4.4"
+  }
 }
